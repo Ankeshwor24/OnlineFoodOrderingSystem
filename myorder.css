@@ -1,0 +1,1655 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+.top{
+	margin-top: 40px;
+	margin-left: 10px;
+	width: 1345px;
+	height: 450px;
+}
+
+.mytop ul{
+	list-style-type: none;
+	float: right;
+	margin-top: 20px;
+}
+.mytop ul li{
+	display: inline-block;
+}
+.mytop ul li a{
+	text-decoration: none;
+	padding: 20px;
+	color: blue;
+	font-weight: bold;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+.mytop ul li a:hover{
+	background-color: yellow;
+	color: #000;
+}
+.mytop ul li a .active{
+	background-color:yellow;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-color: lightblue;
+	font-family: sans-serif;
+}
+.burger1{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 40%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.burger1.vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price1{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order1{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.burger2{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 40%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.burger2.vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price2{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order2{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.burger3{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 40%;
+	left:50%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.burger3.vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price3{
+	width: 145px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order3{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.burger4{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 40%;
+	left:70%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.burger4.vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price4{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order4{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.burger5{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 40%;
+	left:90%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.burger5.vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price5{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order5{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+}
+.burger6{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 110%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.burger6.vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price6{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order6{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+}
+.burger7{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 110%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.burger7.vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price7{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order7{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+}
+.pizza1{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 180%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.pizza1.vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price11{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order11{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.pizza2{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 180%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.pizza2.vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price12{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order12{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.pizza3{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 180%;
+	left:50%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.pizza3 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price13{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order13{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.pizza4{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 180%;
+	left:70%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.pizza4 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price14{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order14{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.pizza5{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 180%;
+	left:90%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.pizza5 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price15{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order15{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.pizza6{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 250%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.pizza6 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price16{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order16{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.pizza7{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 250%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.pizza7 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price17{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order17{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.chicken1{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 320%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.chicken1 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price21{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order21{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.chicken2{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 320%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.chicken2 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price22{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order22{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.chicken3{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 320%;
+	left:50%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.chicken3 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price23{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order23{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.chicken4{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 320%;
+	left:70%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.chicken4 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price24{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order24{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.chicken5{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 320%;
+	left:90%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.chicken5 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price25{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order25{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.chicken6{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 390%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.chicken6 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price26{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order26{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.chicken7{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 390%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.chicken7 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price27{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order27{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.icecream1{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 460%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.icecream1 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price31{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order31{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.icecream2{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 460%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.icecream2 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price32{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order32{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.icecream3{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 460%;
+	left:50%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.icecream3 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price33{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order33{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.icecream4{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 460%;
+	left:70%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.icecream4 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price34{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order34{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.icecream5{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 460%;
+	left:90%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.icecream5 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price35{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order35{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.icecream6{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 530%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.icecream6 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price36{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order36{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.icecream7{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 530%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.icecream7 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price37{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order37{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.drink1{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 600%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.drink1 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price41{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order41{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.drink2{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 600%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.drink2 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price42{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order42{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.drink3{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 600%;
+	left:50%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.drink3 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price43{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order43{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.drink4{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 600%;
+	left:70%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.drink4 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price44{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order44{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.drink5{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 600%;
+	left:90%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.drink5 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price45{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order45{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.drink6{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 670%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.drink6 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price46{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order46{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.drink7{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 670%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.drink7 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price47{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order47{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image1{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 740%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image1 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price51{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order51{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image2{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 740%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image2 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price52{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order52{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image3{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 740%;
+	left:50%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image3 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price53{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order53{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image4{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 740%;
+	left:70%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image4 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price54{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order54{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image5{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 740%;
+	left:90%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image5 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price55{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order55{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image6{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 810%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image6 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price56{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order56{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image7{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 810%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image7 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price57{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order57{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image8{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 810%;
+	left:50%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image8 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price61{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.orde61{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image9{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 810%;
+	left:70%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image9 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price62{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order62{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image10{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 810%;
+	left:90%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image10 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price63{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order63{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image11{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 880%;
+	left:10%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image11 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price64{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order64{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image12{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 880%;
+	left:30%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image12 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price65{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order65{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image13{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 880%;
+	left:50%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image13 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price66{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order66{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}
+.image14{
+	width: 250px;
+	height: 300px;
+	background:#fff;
+	top: 880%;
+	left:70%;
+	position: absolute;
+	transform:translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px;
+}
+.image14 .vegburger{
+	width: 100px
+	height:100px;
+	top:50%;
+}
+h3{
+margin: 0;
+padding: 0 0 10px;
+text-align: center;
+font-family: Comic sans MS;
+}
+.price67{
+	width: 150px;
+	height: 22px;
+	background-color: lightblue;
+}
+.order67{
+	width: 185px;
+	height: 22px;
+	background-color: deeppink;
+
+}

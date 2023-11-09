@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(child.jpg);
+	height: 100vh;
+	background-size: cover;	
+	background-position: center;
+}
+.address{
+	width: 900px;
+	height: 530px;
+	background:lightpink;
+	color: #fff;
+	top: 55%;
+	left: 52%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 10px;
+	border-radius: 20px;
+
+}
+

@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+.top{
+	margin-top: 40px;
+	margin-left: 10px;
+	width: 1345px;
+	height: 450px;
+}
+
+.mytop ul{
+	list-style-type: none;
+	float: right;
+	margin-top: 20px;
+}
+.mytop ul li{
+	display: inline-block;
+}
+.mytop ul li a{
+	text-decoration: none;
+	padding: 20px;
+	color: blue;
+	font-weight: bold;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+.mytop ul li a:hover{
+	background-color: yellow;
+	color: #000;
+}
+.mytop ul li a .active{
+	background-color:yellow;
+}
+.form1{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(0,0,0,0.8);
+	background-color: #5DA6F2;
+	width: 800px;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	box-shadow: 0 15px 25px rgba(0,0,0,.5);
+	border-radius: 10px;
+}
+.form1 .inputbox input{
+	width: 70%;
+	font-size: 30px;
+}
+.form1 .inputbox input[type="submit"]{
+	width: 20%
+}
+.offer img{
+	width: 1360px;
+	height: 80px;
+}
+.marquee img{
+	height: 250px;
+	width: 260px;
+
+}
+.marquee marquee{
+	background-color: #5DA6F2;
+	padding: 5px;
+}
+.mylist ul li{
+	margin-left: 400px;
+	list-style-type: none;
+}
+.form1 .inputbox option{
+	width: 500px;
+	font-size: : 30px;
+}
+.logo img{
+	width: 250px;
+	height: 65px;
+	padding: 10px;
+	float: left;
+}
